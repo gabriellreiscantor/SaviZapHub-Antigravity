@@ -1,0 +1,21 @@
+{
+    "name": "whatsapp-bot-cloud",
+    "version": "1.0.0",
+    "description": "Bot de WhatsApp rodando em nuvem",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "whatsapp",
+        "baileys",
+        "bot"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.6.0",
+        "pino": "^8.0.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}

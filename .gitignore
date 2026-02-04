@@ -1,0 +1,7 @@
+node_modules
+auth_info_baileys
+.env
+supabase/config.toml
+frontend/dist
+frontend/.env
+*.local
